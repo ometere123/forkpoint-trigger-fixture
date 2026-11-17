@@ -1,0 +1,1 @@
+Substantive YES trigger fixture for the funded FORKPOINT closeout.
